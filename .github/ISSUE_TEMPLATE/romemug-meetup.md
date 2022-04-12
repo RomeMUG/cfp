@@ -19,7 +19,7 @@ assignees: RomeMUG
 
 **Name:** Il tuo nome  
 
-**Email:** La tua email (opzionale)  
+**Email:** La tua email
 
 **About:** Raccontaci chi sei in poche parole
 
