@@ -12,18 +12,16 @@
 
 ## Come candidarsi
 
-Invece di mandare un'email ti basta [creare una nuova issue](https://github.com/RomeMUG/cfp/issues/new) in questo repository.
+Ti basterà [creare una nuova issue](https://github.com/RomeMUG/cfp/issues/new) in questo repository includendo alcune semplici informazioni.
 
-**Info da includere:**
-
-Qualcosa su di te:
+**Qualcosa su di te:**
 
 - Tuo nome;
 - Tua email o qualsiasi altro modo per contattarti;
 - Info che ti riguardano;
 - [opzionale] Twitter o altri social;
 
-E qualcosa sul tuo talk:
+**E qualcosa sul tuo talk:**
 
 - Titolo;
 - Breve descrizione dell'argomento;
