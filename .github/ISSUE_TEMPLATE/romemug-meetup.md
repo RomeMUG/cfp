@@ -1,17 +1,17 @@
 ---
 name: RomeMUG Meetup
 about: Modulo di candidatura
-title: Aggiungi il titolo del tuo talk
+title: Titolo del tuo talk
 labels: call for paper
 assignees: RomeMUG
 
 ---
 
-**Description:** Aggiungi una breve descrizione del tuo talk 
+**Description:** Breve descrizione del tuo talk 
 
 **Preferred language:** Italiano o Inglese 
 
-**Duration:** Lightning talk (~15min), Short talk (~30min), Long talk (~45min) oppure custom  
+**Duration:** Short talk (~30min), Long talk (~45min) oppure custom  
 
 **When:** In quale mese vorresti tenere il tuo talk? (Ci incontriamo ogni primo Giovedì del mese)
 
