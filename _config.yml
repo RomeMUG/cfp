@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - ISSUE_TEMPLATE.md
