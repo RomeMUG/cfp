@@ -1,4 +1,4 @@
-# Call for Papers
+# RomeMUG🌿| Call for Papers
 
 [![](https://img.shields.io/badge/submit-cfp-yellow.svg)](https://github.com/RomeMUG/cfp/issues/new)
 
