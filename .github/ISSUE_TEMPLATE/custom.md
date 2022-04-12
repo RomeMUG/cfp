@@ -1,3 +1,12 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # Titolo del tuo talk
 
 **Description:** Aggiungi una breve descrizione del tuo talk 
@@ -23,5 +32,3 @@
 _Non editare queste info, lasciale per gli altri:_  
 :+1: se ti piacerebbe assistere a questo talk  
 :-1: se non lo trovi interessante (senza rancore)
-
-
