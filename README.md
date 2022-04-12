@@ -19,7 +19,7 @@ Ti basterà [creare una nuova issue](https://github.com/RomeMUG/cfp/issues/new) 
 - Tuo nome;
 - Tua email o qualsiasi altro modo per contattarti;
 - Info che ti riguardano;
-- [opzionale] Twitter o altri social;
+- [opzionale] Twitter o altri social.
 
 **E qualcosa sul tuo talk:**
 
