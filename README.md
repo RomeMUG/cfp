@@ -4,11 +4,11 @@
 
 📣 Call for Papers per i Meetups del RomeMUG🌿 (MongoDB User Group).
 
-🐙 Tutti noi siamo, siamo stati o magari saremo sviluppatori, abbiamo deciso quindi di utilizzare GitHub per raccogliere le nostre CFP.
+🐙 Tutti noi siamo, siamo stati o magari saremo sviluppatori; abbiamo deciso quindi di utilizzare GitHub per raccogliere le nostre CFP.
 
 🍺 I Meetups del RomeMUG🌿 di solito vengono organizzati ogni primo Giovedì del mese all'ora dell'aperitivo!
 
-🙌 Se vuoi tenere il tuo talk in uno dei prossimi incontri, ecco come puoi candidarti:
+🙌 Se vuoi tenere il tuo talk in uno dei prossimi incontri, ecco come puoi candidarti.
 
 ## Come candidarsi
 
