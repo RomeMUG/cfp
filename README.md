@@ -1,6 +1,6 @@
 # RomeMUG🌿| Call for Papers
 
-[![](https://img.shields.io/badge/submit-cfp-yellow.svg)](https://github.com/RomeMUG/cfp/issues/new)
+[![](https://img.shields.io/badge/submit-cfp-yellow.svg)](https://github.com/RomeMUG/cfp/issues/new?assignees=RomeMUG&labels=call+for+paper&template=romemug-meetup.md&title=Titolo+del+tuo+talk)
 
 📣 Call for Papers per i Meetups del RomeMUG🌿 (MongoDB User Group).
 
@@ -12,7 +12,7 @@
 
 ## Come candidarsi
 
-Ti basterà [creare una nuova issue](https://github.com/RomeMUG/cfp/issues/new) in questo repository includendo alcune semplici informazioni.
+Ti basterà [creare una nuova issue](https://github.com/RomeMUG/cfp/issues/new?assignees=RomeMUG&labels=call+for+paper&template=romemug-meetup.md&title=Titolo+del+tuo+talk) in questo repository includendo alcune semplici informazioni.
 
 **Qualcosa su di te:**
 
